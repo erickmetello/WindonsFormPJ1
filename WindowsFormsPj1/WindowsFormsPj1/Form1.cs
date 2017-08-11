@@ -13,7 +13,7 @@ namespace WindowsFormsPj1
     public partial class Form1 : Form
     {
         Random rand = new Random();
-        string cu;
+    
         public Form1()
         {
             InitializeComponent();
@@ -21,15 +21,16 @@ namespace WindowsFormsPj1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "Oi , Edlaine da o cu!!\n";
+            textBox1.Text = "Oi Matheus aqui é o Erick!!\n";
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            cu = rand.Next(trackBar1.Value).ToString();
+            string aleatorio;
+            aleatorio = rand.Next(trackBar1.Value).ToString();
             //textBox1.Text = "è vdd ela é muita dadeira!!";
             //textBox1.AppendText("\n");
-            textBox1.AppendText(" puta que pariu,ela é uma puta mesmo!! " + cu + "\n");
+            textBox1.AppendText(" Sim sou eu mesmo!! " + aleatorio + "\n");
             
 
             if (checkBox1.Enabled == true)
@@ -42,7 +43,7 @@ namespace WindowsFormsPj1
             }
             
 
-            label1.Text = cu;
+            label1.Text = aleatorio;
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)

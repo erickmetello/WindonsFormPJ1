@@ -7,3 +7,4 @@ C:\Users\erick.metello\Desktop\GitHub\WindonsFormPJ1\WindowsFormsPj1\WindowsForm
 C:\Users\erick.metello\Desktop\GitHub\WindonsFormPJ1\WindowsFormsPj1\WindowsFormsPj1\obj\Debug\WindowsFormsPj1.csproj.GenerateResource.Cache
 C:\Users\erick.metello\Desktop\GitHub\WindonsFormPJ1\WindowsFormsPj1\WindowsFormsPj1\obj\Debug\WindowsFormsPj1.exe
 C:\Users\erick.metello\Desktop\GitHub\WindonsFormPJ1\WindowsFormsPj1\WindowsFormsPj1\obj\Debug\WindowsFormsPj1.pdb
+C:\Users\erick.metello\Desktop\GitHub\WindonsFormPJ1\WindowsFormsPj1\WindowsFormsPj1\obj\Debug\WindowsFormsPj1.Form2.resources

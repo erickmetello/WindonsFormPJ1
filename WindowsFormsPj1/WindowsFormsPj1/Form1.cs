@@ -33,5 +33,10 @@ namespace WindowsFormsPj1
         {
             new Form2().ShowDialog();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            label1.Text = comboBox1.Text;
+        }
     }
     }
